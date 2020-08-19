@@ -1,0 +1,122 @@
+2020-08-17 08:50:49,626 - TestLoginPage -INFO - URL is opened
+2020-08-17 08:50:50,004 - TestLoginPage -INFO - Entered username
+2020-08-17 08:50:50,145 - TestLoginPage -INFO - Entered password
+2020-08-17 08:50:50,279 - TestLoginPage -INFO - clicked the login button
+2020-08-17 08:50:50,299 - TestLoginPage -INFO - Login test passed
+2020-08-17 08:55:47,786 - TestLoginPage -INFO - URL is opened
+2020-08-17 08:55:48,105 - TestLoginPage -INFO - Entered username
+2020-08-17 08:55:48,277 - TestLoginPage -INFO - Entered password
+2020-08-17 08:55:48,389 - TestLoginPage -INFO - clicked the login button
+2020-08-17 08:55:48,408 - TestLoginPage -INFO - Login test passed
+2020-08-17 09:01:44,091 - TestLoginPage -INFO - URL is opened
+2020-08-17 09:01:44,423 - TestLoginPage -INFO - Entered username
+2020-08-17 09:01:44,562 - TestLoginPage -INFO - Entered password
+2020-08-17 09:01:44,724 - TestLoginPage -INFO - clicked the login button
+2020-08-17 09:01:44,743 - TestLoginPage -INFO - Login test passed
+2020-08-17 09:24:46,457 - TestLoginPage -INFO - URL is opened
+2020-08-17 09:24:46,787 - TestLoginPage -INFO - Entered username
+2020-08-17 09:24:46,953 - TestLoginPage -INFO - Entered password
+2020-08-17 09:24:47,078 - TestLoginPage -INFO - clicked the login button
+2020-08-17 09:24:47,098 - TestLoginPage -INFO - Login test passed
+2020-08-17 12:41:32,299 - TestLoginPage -INFO - user name is provided
+2020-08-17 12:41:32,896 - TestLoginPage -INFO - password provided
+2020-08-17 12:41:36,367 - TestLoginPage -WARN - Login passed
+2020-08-17 12:41:47,158 - TestLoginPage -INFO - user name is provided
+2020-08-17 12:41:47,519 - TestLoginPage -INFO - password provided
+2020-08-17 12:41:50,780 - TestLoginPage -WARN - Login passed
+2020-08-17 12:42:01,583 - TestLoginPage -INFO - user name is provided
+2020-08-17 12:42:02,059 - TestLoginPage -INFO - password provided
+2020-08-17 15:41:47,933 - TestLoginPage -INFO - user name is provided
+2020-08-17 15:41:48,071 - TestLoginPage -INFO - password provided
+2020-08-17 15:41:50,329 - TestLoginPage -WARN - Login failed
+2020-08-17 15:41:50,532 - TestLoginPage -INFO - user name is provided
+2020-08-17 15:41:50,614 - TestLoginPage -INFO - password provided
+2020-08-17 15:41:52,756 - TestLoginPage -WARN - Login failed
+2020-08-17 15:41:52,943 - TestLoginPage -INFO - user name is provided
+2020-08-17 15:41:53,052 - TestLoginPage -INFO - password provided
+2020-08-17 15:41:55,201 - TestLoginPage -WARN - Login failed
+2020-08-17 15:44:09,998 - TestLoginPage -INFO - user name is provided
+2020-08-17 15:44:10,121 - TestLoginPage -INFO - password provided
+2020-08-17 15:44:14,328 - TestLoginPage -WARN - Login failed
+2020-08-17 15:44:14,482 - TestLoginPage -INFO - user name is provided
+2020-08-17 15:44:14,557 - TestLoginPage -INFO - password provided
+2020-08-17 15:44:18,721 - TestLoginPage -WARN - Login failed
+2020-08-17 15:44:18,895 - TestLoginPage -INFO - user name is provided
+2020-08-17 15:44:19,039 - TestLoginPage -INFO - password provided
+2020-08-17 15:44:23,207 - TestLoginPage -WARN - Login failed
+2020-08-17 15:46:01,649 - TestLoginPage -INFO - user name is provided
+2020-08-17 15:46:01,770 - TestLoginPage -INFO - password provided
+2020-08-17 15:46:06,041 - TestLoginPage -WARN - Login failed
+2020-08-17 15:46:06,184 - TestLoginPage -INFO - user name is provided
+2020-08-17 15:46:06,265 - TestLoginPage -INFO - password provided
+2020-08-17 15:46:10,433 - TestLoginPage -WARN - Login failed
+2020-08-17 15:46:10,634 - TestLoginPage -INFO - user name is provided
+2020-08-17 15:46:10,728 - TestLoginPage -INFO - password provided
+2020-08-17 15:51:16,931 - TestLoginPage -INFO - user name is provided
+2020-08-17 15:51:17,091 - TestLoginPage -INFO - password provided
+2020-08-17 15:51:21,463 - TestLoginPage -WARN - Login failed
+2020-08-17 15:51:21,615 - TestLoginPage -INFO - user name is provided
+2020-08-17 15:51:21,732 - TestLoginPage -INFO - password provided
+2020-08-17 15:51:25,951 - TestLoginPage -WARN - Login failed
+2020-08-17 15:51:26,130 - TestLoginPage -INFO - user name is provided
+2020-08-17 15:51:26,228 - TestLoginPage -INFO - password provided
+2020-08-17 15:56:46,906 - TestLoginPage -INFO - user name is provided
+2020-08-17 15:56:47,019 - TestLoginPage -INFO - password provided
+2020-08-17 15:56:51,364 - TestLoginPage -WARN - Login failed
+2020-08-17 15:56:51,522 - TestLoginPage -INFO - user name is provided
+2020-08-17 15:56:51,650 - TestLoginPage -INFO - password provided
+2020-08-17 15:56:55,922 - TestLoginPage -WARN - Login failed
+2020-08-17 15:56:56,105 - TestLoginPage -INFO - user name is provided
+2020-08-17 15:56:56,208 - TestLoginPage -INFO - password provided
+2020-08-17 16:16:01,305 - TestLoginPage -INFO - user name is provided
+2020-08-17 16:16:01,417 - TestLoginPage -INFO - password provided
+2020-08-17 16:16:04,697 - TestLoginPage -WARN - Login failed
+2020-08-17 16:16:04,846 - TestLoginPage -INFO - user name is provided
+2020-08-17 16:16:04,936 - TestLoginPage -INFO - password provided
+2020-08-17 16:16:08,138 - TestLoginPage -WARN - Login failed
+2020-08-17 16:16:08,306 - TestLoginPage -INFO - user name is provided
+2020-08-17 16:16:08,413 - TestLoginPage -INFO - password provided
+2020-08-17 16:21:05,492 - TestLoginPage -INFO - user name is provided
+2020-08-17 16:21:05,607 - TestLoginPage -INFO - password provided
+2020-08-17 16:21:08,871 - TestLoginPage -WARN - Login failed
+2020-08-17 16:21:08,957 - TestLoginPage -INFO - user name is provided
+2020-08-17 16:21:09,084 - TestLoginPage -INFO - password provided
+2020-08-17 16:21:12,274 - TestLoginPage -WARN - Login failed
+2020-08-17 16:21:12,365 - TestLoginPage -INFO - user name is provided
+2020-08-17 16:21:12,477 - TestLoginPage -INFO - password provided
+2020-08-17 16:21:15,706 - TestLoginPage -WARN - Login failed
+2020-08-18 20:34:36,706 - TestLoginPage -INFO - URL is opened
+2020-08-18 20:34:37,210 - TestLoginPage -INFO - Entered username
+2020-08-18 20:34:37,378 - TestLoginPage -INFO - Entered password
+2020-08-18 20:34:37,498 - TestLoginPage -INFO - clicked the login button
+2020-08-18 20:34:37,513 - TestLoginPage -INFO - Login test passed
+2020-08-18 20:36:37,041 - TestLoginPage -INFO - URL is opened
+2020-08-18 20:36:37,443 - TestLoginPage -INFO - Entered username
+2020-08-18 20:36:37,621 - TestLoginPage -INFO - Entered password
+2020-08-18 20:36:37,729 - TestLoginPage -INFO - clicked the login button
+2020-08-18 20:36:37,742 - TestLoginPage -INFO - Login test passed
+2020-08-18 20:37:09,165 - TestLoginPage -INFO - URL is opened
+2020-08-18 20:37:09,511 - TestLoginPage -INFO - Entered username
+2020-08-18 20:37:09,648 - TestLoginPage -INFO - Entered password
+2020-08-18 20:37:09,760 - TestLoginPage -INFO - clicked the login button
+2020-08-18 20:37:09,777 - TestLoginPage -INFO - Login test passed
+2020-08-18 20:48:03,335 - TestLoginPage -INFO - URL is opened
+2020-08-18 20:48:03,789 - TestLoginPage -INFO - Entered username
+2020-08-18 20:48:04,049 - TestLoginPage -INFO - Entered password
+2020-08-18 20:48:04,158 - TestLoginPage -INFO - clicked the login button
+2020-08-18 20:48:04,170 - TestLoginPage -INFO - Login test passed
+2020-08-18 21:07:11,168 - TestLoginPage -INFO - URL is opened
+2020-08-18 21:07:11,559 - TestLoginPage -INFO - Entered username
+2020-08-18 21:07:11,722 - TestLoginPage -INFO - Entered password
+2020-08-18 21:07:11,891 - TestLoginPage -INFO - clicked the login button
+2020-08-18 21:07:11,922 - TestLoginPage -INFO - Login test passed
+2020-08-18 21:07:31,764 - TestLoginPage -INFO - URL is opened
+2020-08-18 21:07:32,175 - TestLoginPage -INFO - Entered username
+2020-08-18 21:07:32,357 - TestLoginPage -INFO - Entered password
+2020-08-18 21:07:32,450 - TestLoginPage -INFO - clicked the login button
+2020-08-18 21:07:32,463 - TestLoginPage -INFO - Login test passed
+2020-08-18 21:08:36,757 - TestLoginPage -INFO - URL is opened
+2020-08-18 21:08:37,109 - TestLoginPage -INFO - Entered username
+2020-08-18 21:08:37,263 - TestLoginPage -INFO - Entered password
+2020-08-18 21:08:37,392 - TestLoginPage -INFO - clicked the login button
+2020-08-18 21:08:37,410 - TestLoginPage -INFO - Login test passed
